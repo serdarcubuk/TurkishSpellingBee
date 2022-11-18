@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.text.Font?>
+<?import java.lang.*?>
+<Pane xmlns:fx="http://javafx.com/fxml/1" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+      prefHeight="557.0" prefWidth="1046.0" xmlns="http://javafx.com/javafx/16"
+      fx:controller="com.serdarcubuk.spellingbee.SpellingBeeController">
+
+    <children>
+        <Polygon fill="WHITE" layoutX="267.0" layoutY="362.0" stroke="BLACK" strokeType="INSIDE">
+            <points>
+
+                <Double fx:value="-50.0"/>
+                <Double fx:value="30.0"/>
+
+                <Double fx:value="0.0"/>
+                <Double fx:value="60.0"/>
+
+                <Double fx:value="50.0"/>
+                <Double fx:value="30.0"/>
+
+                <Double fx:value="50.0"/>
+                <Double fx:value="-30.0"/>
+
+                <Double fx:value="0.0"/>
+                <Double fx:value="-60.0"/>
+
+                <Double fx:value="-50.0"/>
+                <Double fx:value="-30.0"/>
+
+            </points>
+        </Polygon>
+        <Polygon fill="ORANGE" layoutX="317.0" layoutY="273.0" stroke="BLACK" strokeType="INSIDE">
+            <points>
+
+                <Double fx:value="-50.0"/>
+                <Double fx:value="30.0"/>
+
+                <Double fx:value="0.0"/>
+                <Double fx:value="60.0"/>
+
+                <Double fx:value="50.0"/>
+                <Double fx:value="30.0"/>
+
+                <Double fx:value="50.0"/>
+                <Double fx:value="-30.0"/>
+
+                <Double fx:value="0.0"/>
+                <Double fx:value="-60.0"/>
+
+                <Double fx:value="-50.0"/>
+                <Double fx:value="-30.0"/>
+
+            </points>
+        </Polygon>
+        <Polygon fill="WHITE" layoutX="417.0" layoutY="273.0" stroke="BLACK" strokeType="INSIDE">
+            <points>
+
+                <Double fx:value="-50.0"/>
+                <Double fx:value="30.0"/>
+
+                <Double fx:value="0.0"/>
+                <Double fx:value="60.0"/>
+
+                <Double fx:value="50.0"/>
+                <Double fx:value="30.0"/>
+
+                <Double fx:value="50.0"/>
+                <Double fx:value="-30.0"/>
+
+                <Double fx:value="0.0"/>
+                <Double fx:value="-60.0"/>
+
+                <Double fx:value="-50.0"/>
+                <Double fx:value="-30.0"/>
+
+            </points>
+        </Polygon>
+        <Polygon fill="WHITE" layoutX="217.0" layoutY="273.0" stroke="BLACK" strokeType="INSIDE">
+            <points>
+
+                <Double fx:value="-50.0"/>
+                <Double fx:value="30.0"/>
+
+                <Double fx:value="0.0"/>
+                <Double fx:value="60.0"/>
+
+                <Double fx:value="50.0"/>
+                <Double fx:value="30.0"/>
+
+                <Double fx:value="50.0"/>
+                <Double fx:value="-30.0"/>
+
+                <Double fx:value="0.0"/>
+                <Double fx:value="-60.0"/>
+
+                <Double fx:value="-50.0"/>
+                <Double fx:value="-30.0"/>
+
+            </points>
+        </Polygon>
+        <Button fx:id="Button6" layoutX="217.0" layoutY="309.0" mnemonicParsing="false" onAction="#onButton6Click"
+                prefHeight="106.0" prefWidth="100.0"
+                style="-fx-background-radius: 50%; -fx-background-color: transparent;" textOverrun="CENTER_ELLIPSIS">
+            <opaqueInsets>
+                <Insets/>
+            </opaqueInsets>
+        </Button>
+        <Polygon fill="WHITE" layoutX="267.0" layoutY="185.0" stroke="BLACK" strokeType="INSIDE">
+            <points>
+
+                <Double fx:value="-50.0"/>
+                <Double fx:value="30.0"/>
+
+                <Double fx:value="0.0"/>
+                <Double fx:value="60.0"/>
+
+                <Double fx:value="50.0"/>
+                <Double fx:value="30.0"/>
+
+                <Double fx:value="50.0"/>
+                <Double fx:value="-30.0"/>
+
+                <Double fx:value="0.0"/>
+                <Double fx:value="-60.0"/>
+
+                <Double fx:value="-50.0"/>
+                <Double fx:value="-30.0"/>
+
+            </points>
+        </Polygon>
+        <Button fx:id="Button4" layoutX="167.0" layoutY="220.0" mnemonicParsing="false" onAction="#onButton4Click"
+                prefHeight="106.0" prefWidth="100.0"
+                style="-fx-background-radius: 50%; -fx-background-color: transparent;" textOverrun="CENTER_ELLIPSIS">
+            <opaqueInsets>
+                <Insets/>
+            </opaqueInsets>
+        </Button>
+        <Polygon fill="WHITE" layoutX="367.0" layoutY="362.0" stroke="BLACK" strokeType="INSIDE">
+            <points>
+
+                <Double fx:value="-50.0"/>
+                <Double fx:value="30.0"/>
+
+                <Double fx:value="0.0"/>
+                <Double fx:value="60.0"/>
+
+                <Double fx:value="50.0"/>
+                <Double fx:value="30.0"/>
+
+                <Double fx:value="50.0"/>
+                <Double fx:value="-30.0"/>
+
+                <Double fx:value="0.0"/>
+                <Double fx:value="-60.0"/>
+
+                <Double fx:value="-50.0"/>
+                <Double fx:value="-30.0"/>
+
+            </points>
+        </Polygon>
+        <Button fx:id="Button5" layoutX="367.0" layoutY="220.0" mnemonicParsing="false" onAction="#onButton5Click"
+                prefHeight="106.0" prefWidth="100.0"
+                style="-fx-background-radius: 50%; -fx-background-color: transparent;" textOverrun="CENTER_ELLIPSIS">
+            <opaqueInsets>
+                <Insets/>
+            </opaqueInsets>
+        </Button>
+        <Polygon fill="WHITE" layoutX="367.0" layoutY="185.0" stroke="BLACK" strokeType="INSIDE">
+            <points>
+
+                <Double fx:value="-50.0"/>
+                <Double fx:value="30.0"/>
+
+                <Double fx:value="0.0"/>
+                <Double fx:value="60.0"/>
+
+                <Double fx:value="50.0"/>
+                <Double fx:value="30.0"/>
+
+                <Double fx:value="50.0"/>
+                <Double fx:value="-30.0"/>
+
+                <Double fx:value="0.0"/>
+                <Double fx:value="-60.0"/>
+
+                <Double fx:value="-50.0"/>
+                <Double fx:value="-30.0"/>
+
+            </points>
+        </Polygon>
+        <Button fx:id="Button3" layoutX="317.0" layoutY="132.0" mnemonicParsing="false" onAction="#onButton3Click"
+                prefHeight="106.0" prefWidth="100.0"
+                style="-fx-background-radius: 50%; -fx-background-color: transparent;" textOverrun="CENTER_ELLIPSIS">
+            <opaqueInsets>
+                <Insets/>
+            </opaqueInsets>
+        </Button>
+        <Button fx:id="Button1" layoutX="267.0" layoutY="220.0" mnemonicParsing="false" onAction="#onButton1Click"
+                prefHeight="106.0" prefWidth="100.0"
+                style="-fx-background-radius: 50%; -fx-background-color: transparent;" textOverrun="CENTER_ELLIPSIS">
+            <opaqueInsets>
+                <Insets/>
+            </opaqueInsets>
+        </Button>
+        <Button fx:id="Button7" layoutX="317.0" layoutY="309.0" mnemonicParsing="false" onAction="#onButton7Click"
+                prefHeight="106.0" prefWidth="100.0"
+                style="-fx-background-radius: 50%; -fx-background-color: transparent;" textOverrun="CENTER_ELLIPSIS">
+            <opaqueInsets>
+                <Insets/>
+            </opaqueInsets>
+        </Button>
+        <Button fx:id="Button2" layoutX="217.0" layoutY="132.0" mnemonicParsing="false" onAction="#onButton2Click"
+                prefHeight="106.0" prefWidth="100.0"
+                style="-fx-background-radius: 50%; -fx-background-color: transparent;" textOverrun="CENTER_ELLIPSIS">
+            <opaqueInsets>
+                <Insets/>
+            </opaqueInsets>
+        </Button>
+        <Button fx:id="enterButton" layoutX="391.0" layoutY="454.0" mnemonicParsing="false"
+                onAction="#onEnterButtonClick" text="ENTER"/>
+        <Button fx:id="deleteButton" layoutX="191.0" layoutY="454.0" mnemonicParsing="false"
+                onAction="#onDeleteButtonClick" text="DELETE"/>
+        <TextField fx:id="kelimeText" layoutX="243.0" layoutY="83.0" onAction="#onEnterButtonClick"
+                   onKeyPressed="#kelimeTextTyped"/>
+        <Label layoutX="485.0" layoutY="121.0" prefHeight="22.0" prefWidth="169.0"
+               style="-fx-border-color: DARKBLUE; -fx-border-width: 2;" text="•BULUNAN KELİMELER"/>
+        <Label fx:id="words" alignment="TOP_LEFT" layoutX="485.0" layoutY="141.0" prefHeight="281.0" prefWidth="169.0"
+               style="-fx-border-color: DARKBLUE; -fx-border-width: 2;"/>
+        <Label alignment="TOP_LEFT" layoutX="755.0" layoutY="99.0" prefHeight="53.0" prefWidth="194.0"
+               text="OYUNU KENDİ HARFLERİNİZLE OYNAMAK İSTİYORSANIZ 7 FARKLI HARFİNİZİ GİRİNİZ:" wrapText="true"/>
+        <TextField fx:id="girisText" layoutX="755.0" layoutY="160.0" onAction="#onGirisButtonClick"
+                   onKeyPressed="#girisTextTyped"/>
+        <Button fx:id="girisButton" layoutX="904.0" layoutY="160.0" mnemonicParsing="false"
+                onAction="#onGirisButtonClick" text="GİRİŞ"/>
+        <Button fx:id="randomButton" layoutX="954.0" layoutY="160.0" mnemonicParsing="false"
+                onAction="#onRandomButtonClick" text="RASTGELE"/>
+        <Label fx:id="hataText" layoutX="755.0" layoutY="194.0" lineSpacing="2.0" prefHeight="53.0" prefWidth="194.0"
+               textFill="RED" underline="true"/>
+        <Label fx:id="scoreText" layoutX="755.0" layoutY="252.0" lineSpacing="2.0" prefHeight="53.0" prefWidth="194.0"
+               textFill="BLUE">
+            <font>
+                <Font name="JetBrains Mono Bold" size="12.0"/>
+            </font>
+        </Label>
+        <Button layoutX="924.0" layoutY="314.0" mnemonicParsing="false" onAction="#onCevaplarButtonClick"
+                text="CEVAPLAR"/>
+        <TextArea fx:id="cevaplar" editable="false" focusTraversable="false" layoutX="755.0" layoutY="315.0"
+                  prefHeight="200.0" prefWidth="169.0"/>
+        <Label alignment="CENTER" layoutX="3.0" layoutY="14.0" prefHeight="53.0" prefWidth="1040.0"
+               text="HECELEME YARIŞMASI" textFill="#1800ff">
+            <font>
+                <Font name="Franklin Gothic Medium" size="31.0"/>
+            </font>
+        </Label>
+        <Button layoutX="302.0" layoutY="454.0" mnemonicParsing="false" onAction="#Karistir" prefHeight="25.0"
+                prefWidth="30.0" style="-fx-background-radius: 50%;" text="🔄"/>
+    </children>
+</Pane>
